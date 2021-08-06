@@ -1,0 +1,36 @@
+.additem{
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width:65%;
+    height: 80%;
+    background-color: rgb(244, 180 ,0.5);
+    color:"black";
+    z-index:1000000000000000000;
+    border-radius: 50px;
+    box-shadow: 0px 0px 100px 40px black;
+}
+
+.addArea{
+    padding:35px;
+}
+.form-check-input {
+    display: block;
+    padding: 10px;
+    color:none;
+    background-color: red;
+    border-radius: 100%;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: royalblue;
+}
+.white{
+    background-color: white;
+}

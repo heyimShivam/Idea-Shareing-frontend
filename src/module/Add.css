@@ -1,0 +1,18 @@
+.add-button{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border-radius: 100%;
+
+    background-color: rgb(244, 180 ,0);
+    color:white
+}
+.addIcon{
+    font-weight: bolder;
+    color: white;
+}
+.styleContainer{
+    transition: 2s;
+}
